@@ -1,0 +1,16 @@
+L'obtention d'informations, de données ou de services en provenance de ce site, avec l'objectif de les reproduire dans des documents ou des publications, doit remercier le pôle Aeris en tant que source de ces informations ou données.
+
+Toute diffusion de resultats de recherche, de présentations, de données ou de produits utilisant les données, de documents ou de services  issus de ce site, la source de ceux-ci doit être clairement stipulée de la manière suivante dans les remerciements : 
+
+Pour des données récupérées via Aeris
+Données fournies par [fourniseur d'origine]. Nous remercions le pôle Aeris de nous avoir permis l'accès à ces données.  
+Lors de l'obtention de données à partir de ce site, l'utilisateur doit consulter les informations correspondantes quant aux différents droits ou contraintes s'y appliquant. ​
+
+Pour les autres services Aeris, veuillez faire figurer l'expression la plus adaptée
+ 
+- Nous remercions  le pôle Aeris pour l'assistance apportée.
+- Nous remercions  le pôle Aeris pour les développements effecutés.
+- Nous remercions  le pôle Aeris pour le traitement des données effectué.
+- Nous remercions  le pôle Aeris pour la fourniture d'outils.
+ 
+A l'issu d'une publicaiton, veuillez transmettre ses références à l'adresse :  publications@aeris-data.fr 
