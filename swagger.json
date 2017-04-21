@@ -1,27 +1,3 @@
-Viewer
-Text
- 
-Paste	
- 
- 
-Copy	
- 
- 
-Format	
- 
- 
-Remove white space	
- 
- 
-Clear	
- 
- 
-Load JSON data	
- 
- 
-About	
- 
-
 {
   "swagger": "2.0",
   "info": {
@@ -717,9 +693,3 @@ Example
         { "type": "fax", "number": "646 555-4567" }
     ]
 }
-About Online JSON Viewer
-Convert JSON Strings to a Friendly Readable Format
-The application using Ext JS.
-Author: {gabor}
-
-PayPal - The safer, easier way to pay online!  
